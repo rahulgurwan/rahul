@@ -1,0 +1,8 @@
+Model     | Architecture       | Parameters (Millions) | Max Seq Length | Training Time (hrs)   | Inference Time (ms) | Rank |
++-----------+--------------------+------------------------+----------------------+------------------------+----------------------+------+
+| Model_1   | Transformer-based  | 123                    | 256                | 15.5                   | 5.2                | 3    |
+| Model_2   | Transformer-based  | 456                    | 512                | 20.2                   | 6.8                | 4    |
+| Model_3   | Transformer-based  | 789                    | 128                | 12.8                   | 4.6                | 1    |
+| Model_4   | Transformer-based  | 321                    | 384                | 18.3                   | 7.1                | 2    |
+| Model_5   | Transformer-based  | 654                    | 256                | 22.1                   | 8.3                | 5    |
+| Model_6   | Transformer-based  | 987                    | 512                | 25.9                   | 9.7                | 6    |
